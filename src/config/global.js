@@ -1,17 +1,34 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo: 'Estrategia comunicativa en los medios publicitarios',
+    descripcionCurso:
+      'Para lograr el éxito en la producción publicitaria, es importante evaluar los medios convencionales y no convencionales mediante una planificación estratégica. Esto implica analizar el mercado, la inversión, el presupuesto y el público objetivo, seleccionando los medios más adecuados. La combinación efectiva de medios, permite a las organizaciones fidelizar e impactar a los consumidores, cumpliendo así con los objetivos de comunicación del programa de formación.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-1.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-5.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-6', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-6.svg'),
       },
     ],
   },
@@ -31,27 +48,38 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Concepto sobre medios convencionales',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Campañas publicitarias',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Comunicación <em>Transmedia</em>',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Tipos de medios no convencionales',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Campañas BTL',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: '<em>Marketing</em> de guerrilla',
         desarrolloContenidos: true,
       },
     ],
@@ -102,32 +130,131 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '2.Campañas publicitarias.',
+      referencia:
+        'Ospina, M. (2023). Plan de campaña publicitaria SENA [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=AAFNBYFySwA',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '5. Campañas BTL.',
+      referencia:
+        'P&P Medios (2023). 5 tips para una estrategia BTL.  [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=p3AW7Zv-JIY',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Campaña',
+      significado:
+        'conjunto de acciones planificadas para promocionar un producto o servicio por los distintos medios de comunicación. Las campañas buscan captar la atención del público objetivo y lograr posesionar la marca en un tiempo determinado.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Consumidor',
+      significado:
+        'persona a la que va dirigida una campaña publicitaria de productos y servicios transmitido por los diferentes medios de comunicación convencionales y no convencionales.',
+    },
+    {
+      termino: 'Campañas BTL',
+      significado:
+        'campañas publicitarias <em>"Below The Line"</em> que utilizan medios no convencionales para impactar al público de forma más directa y personalizada.',
+    },
+    {
+      termino: 'Comunicación <em>Transmedia</em>',
+      significado:
+        'estrategia de comunicación que distribuye una narrativa a través de múltiples plataformas, permitiendo la participación activa del público.',
+    },
+    {
+      termino: 'Fidelización',
+      significado:
+        'proceso de crear y mantener lealtad hacia un producto o servicio. Además, busca construir relaciones duraderas con los consumidores, a través de experiencias personalizadas, recompensas y comunicación constante que refuerza el vínculo con la marca.',
+    },
+    {
+      termino: '<em>Marketing</em> de Guerrilla',
+      significado:
+        'técnica publicitaria que utiliza métodos creativos y poco convencionales para generar un gran impacto con recursos limitados.',
+    },
+    {
+      termino: '<em>Marketing</em> sensorial',
+      significado:
+        'estrategia publicitaria que utiliza los sentidos (vista, oído, olfato, gusto, tacto) para generar experiencias memorables en los diferentes espacios comerciales',
+    },
+    {
+      termino: 'Media Mix',
+      significado:
+        'combinación estratégica de diferentes medios publicitarios para maximizar el alcance y efectividad de una campaña.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Calabuig y Muñoz. (2012) Capítulo 1.<em>Transmedia storytelling: </em>una tendencia imparable.',
+    },
+    {
+      referencia:
+        'Castañeda González, J. (2013). <em>La publicidad BTL en la industria automotriz mexicana: caso SEA Tumanera. </em>',
+    },
+    {
+      referencia:
+        'Levinson, J. C. (2009). <em>Marketing</em> de Guerrilla: Los Secretos para Obtener Grandes Ganancias e Sus Pequeñas y Medianas Empresas. Morgan James. ',
+      link:
+        'http://books.google.com.co/books?id=YUnJL0bIBW0C&pg=PR11&hl=es&source=gbs_selected_pages&cad=2#v=onepage&q&f=false',
+    },
+    {
+      referencia:
+        'Duran, I. (2013) <em>Qué hace que los medios convencionales sean. </em>',
+    },
+    {
+      referencia:
+        'Gutierrez, b (Sin fecha). Capítulo 1. Medios no convencionales. ',
+      link:
+        'http://catarina.udlap.mx/u_dl_a/tales/documentos/lco/gutierrez_b_bp/capitulo1.pdf ',
+    },
+    {
+      referencia: 'HDPUBLICIDAD (2012) <em>BTL - 007 la película - HDP</em>.  ',
+      link: 'https://www.youtube.com/watch?v=KICF63qyg7o',
+    },
+    {
+      referencia:
+        'Jenkins, Henry. (2007) <em>Transmedia Storytelling 101</em> ',
+      link: 'http://henryjenkins.org/2007/03/transmedia_storytelling_101.html',
+    },
+    {
+      referencia: 'Life´s for Sharing (2009) The T-Mobile Dance. ',
+      link: 'https://www.youtube.com/watch?v=mUZrrbgCdYc',
+    },
+    {
+      referencia:
+        'Molano, A. (2012). <em>Transmedia</em> la nueva narración. Colombia Digital.',
+    },
+    {
+      referencia: 'Mora, E. (Sin fecha). BTL, <em>Marketing </em>y Estrategia.',
+    },
+    {
+      referencia:
+        'Ramírez Reyes, C. (2009). Pasos para ejecutar una campaña BTL',
+    },
+    {
+      referencia:
+        'Sol (2013) <em>Sol -- Free Beer For Free Spirits #SolTies.  </em>',
+      link: 'https://www.youtube.com/watch?v=LlLgonhiYMU',
+    },
+    {
+      referencia:
+        'Torreblanca Díaz, Francisco <em>et al (2012). Marketing de guerrilla. Lo no convencional triunfa. </em>',
+      link:
+        'http://www.3ciencias.com/wp-content/uploads/2012/12/mk-de-guerrilla2.pdf',
+    },
+    {
+      referencia:
+        '<em>Turnerbenelux (2012)A Dramatic surprise on a quiet square. </em>',
+    },
+    {
+      referencia:
+        'Zuluaga, J. David (2010). BTL, <em>una herramienta para recordar y fidelizar.  </em>',
+      link:
+        'https://repository.eafit.edu.co/bitstream/handle/10784/2804/ZuluagaDuque_JuanDavid_2010.pdf?sequence=1',
     },
   ],
   creditos: [
@@ -136,13 +263,15 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -150,9 +279,22 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Luz Elena Montoya Rendón',
+          cargo: 'Asesora Pedagógica',
+          centro:
+            'Centro de Diseño e Innovación Tecnológica Industrial – Regional Risaralda',
+        },
+        {
+          nombre: 'Marcela María Cardona Molina',
+          cargo: 'Instructora',
+          centro:
+            'Centro de Diseño e Innovación Tecnológica Industrial – Regional Risaralda',
+        },
+        {
+          nombre: 'Gilberto Herrera delgans',
+          cargo: 'Evaluador instruccional',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -160,24 +302,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jesus Antonio Vecino Valero',
+          cargo: 'Diseño web',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jorge Leonardo Camacho Pardo',
+          cargo: 'Desarrollor <em> full stack</em>',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
+          nombre: 'Jorge Leonardo Camacho Pardo',
           cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Carmen Alicia Martinez Torres',
+          cargo: 'Animador y Productor audiovisual',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Alexander Rafael Acosta Bedoya',
+          cargo: 'Animador y Productor audiovisual',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
@@ -185,24 +337,29 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Margarita Marcela Medrano',
+          nombre: 'Luz Karime Amaya',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales ',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },

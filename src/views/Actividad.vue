@@ -15,47 +15,234 @@ export default {
   components: { Actividad },
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del componente formativo',
-      titulo: 'Cuestionario',
-      introduccion: '<b> Objetivo:</b> Texto de Word',
+      tema: 'Campañas publicitarias',
+      titulo: 'Estrategias de diseño visual en campañas publicitarias.',
+      introduccion:
+        '<b> Objetivo:</b> Crear composiciones visuales que cumplan con los objetivos específicos de la estrategia de comunicación.',
       barajarPreguntas: false,
       preguntas: [
         {
           id: 1,
-          texto: 'Texto pregunta 1 con <strong>Negrita</strong> <em>Itálica</.',
+          texto: '¿Cuál de los siguientes es un medio convencional?',
           imagen: require('@/assets/componentes/pregunta_1.svg'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Opción 1', esCorrecta: true },
-            { id: 'b', texto: 'Opción 2', esCorrecta: false },
-            { id: 'c', texto: 'Opción 3', esCorrecta: false },
-            { id: 'd', texto: 'Opción 4', esCorrecta: false },
+            { id: 'a', texto: 'Redes sociales.', esCorrecta: false },
+            { id: 'b', texto: 'Prensa.', esCorrecta: true },
+            { id: 'c', texto: 'Marketing de guerrilla.', esCorrecta: false },
+            { id: 'd', texto: 'Publicidad BTL.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 2,
-          texto: 'Texto pregunta 2',
-          imagen: require('@/assets/componentes/pregunta_2.png'),
+          texto:
+            '¿Qué característica distingue a las revistas como medio convencional?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Falso', esCorrecta: true },
-            { id: 'b', texto: 'Verdadero', esCorrecta: false },
+            { id: 'a', texto: 'Publicidad interactiva', esCorrecta: false },
+            { id: 'b', texto: 'Alto costo de producción', esCorrecta: false },
+            {
+              id: 'c',
+              texto: 'Publicaciones periódicas impresas',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Uso exclusivo en campañas digitales',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 3,
-          texto: 'Texto pregunta 3',
-          imagen: require('@/assets/componentes/pregunta_3.png'),
-          barajarRespuestas: false,
+          texto:
+            '¿Qué medio convencional es conocido por su accesibilidad en zonas rurales?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Opción 1', esCorrecta: true },
-            { id: 'b', texto: 'Opción 2', esCorrecta: false },
-            { id: 'c', texto: 'Opción 3', esCorrecta: false },
-            { id: 'd', texto: 'Todas las anteriores', esCorrecta: false },
+            { id: 'a', texto: 'Cine', esCorrecta: false },
+            { id: 'b', texto: 'Televisión', esCorrecta: false },
+            { id: 'c', texto: 'Radio.', esCorrecta: true },
+            { id: 'd', texto: 'Internet.', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 4,
+          texto: '¿Cuál es un ejemplo de comunicación transmedia?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Anuncios en revistas.', esCorrecta: false },
+            {
+              id: 'b',
+              texto:
+                'Historias contadas a través de diferentes plataformas digitales.',
+              esCorrecta: true,
+            },
+            { id: 'c', texto: 'Publicidad en exteriores.', esCorrecta: false },
+            {
+              id: 'd',
+              texto: 'Campañas de marketing de guerrilla.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 5,
+          texto: '¿Qué es una campaña BTL?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Campaña que utiliza medios masivos de comunicación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Campaña que se enfoca en medios digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Campaña que emplea medios no convencionales para generar impacto directo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Campaña exclusiva de televisión.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 6,
+          texto: '¿Qué caracteriza una comunicación transmedia?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Usar un solo medio para comunicar.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Utilizar múltiples plataformas para contar una historia.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Hacer campañas en televisión únicamente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Ignorar las redes sociales.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 7,
+          texto: '¿Qué incluyen los tipos de medios no convencionales?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Televisión y radio.', esCorrecta: false },
+            {
+              id: 'b',
+              texto: 'Redes sociales y publicidad exterior.',
+              esCorrecta: true,
+            },
+            { id: 'c', texto: 'Periódicos y revistas.', esCorrecta: false },
+            { id: 'd', texto: 'Ninguna de las anteriores.', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 8,
+          texto:
+            '¿Qué medio es más adecuado para una campaña que busca el impacto visual masivo?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Revistas', esCorrecta: false },
+            { id: 'b', texto: 'Radio', esCorrecta: false },
+            { id: 'c', texto: 'Televisión', esCorrecta: true },
+            { id: 'd', texto: 'Prensa', esCorrecta: false },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 9,
+          texto: '¿Por qué se caracteriza el marketing de guerrilla?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Uso de grandes presupuestos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Estrategias creativas y de bajo costo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Campañas en medios convencionales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Enfoque exclusivo en redes sociales.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 10,
+          texto:
+            '¿En qué tipo de campañas son más comunes los medios no convencionales?',
+          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Publicidad de marcas de lujo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Campañas tradicionales en televisión.',
+              esCorrecta: false,
+            },
+            { id: 'c', texto: 'Campañas BTL.', esCorrecta: true },
+            {
+              id: 'd',
+              texto: 'Publicidad de productos electrónicos.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
