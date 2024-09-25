@@ -314,12 +314,6 @@ export default {
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Jorge Leonardo Camacho Pardo',
-          cargo: 'Actividad Didáctica',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
-        },
-        {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Animador y Productor audiovisual',
           centro:

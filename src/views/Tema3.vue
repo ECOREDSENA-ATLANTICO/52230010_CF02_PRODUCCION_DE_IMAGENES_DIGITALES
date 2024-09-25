@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Comunicación <em>Transmedia</em>
-    .row.fondo
+    .fondo
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in")
         .col-lg-8
           p Con la apertura de nuevos medios digitales, se hace imprescindible la creación de estrategias de medios que traspasen los medios convencionales y no convencionales hacia la búsqueda de nuevas narrativas publicitarias simultáneas en diferentes plataformas mediáticas. Las marcas no son estáticas, sino que son entidades que intercambian experiencias con los consumidores, por ende, necesitan diversos canales de comunicación interactivos para generar experiencias significativas. 

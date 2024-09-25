@@ -7,11 +7,11 @@
         span 6
       h1 <em>Marketing</em> de guerrilla 
 
-    .row.fondo
+    .fondo
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
           figure(data-aos="zoom-in")
-            img(src="@/assets/curso/temas/tema6/img-1.png").img400.m-auto
+            img.mb-4(src="@/assets/curso/temas/tema6/img-1.png").img400.m-auto
         .col-lg-6
           p El <em>marketing </em>de guerrilla es un término desarrollado por Jay Conrad Levinson (2009), que significa la realización de actividades de <em>marketing</em> con medios y métodos no convencionales basados en la imaginación, la sorpresa y un bajo presupuesto.  En el <em>marketing</em> de guerrilla se implementan acciones desde el <em>Street marketing</em>, el<em> buzz marketing, ambient marketing, viral marketing</em> y otras estrategias, que generen ruido e impacto en la calle. Torreblanca Díaz et al (2012), explica que es necesario involucrar el efecto sorpresa, llegar a conseguir una experiencia positiva en el usuario, utilizar los cinco sentidos, conseguir que el cliente se acerque a interactuar, provocar una emoción en la persona, y de esta manera conseguir el desarrollo de una estrategia de <em>marketing </em>de guerrilla.
         .col-lg-6
@@ -39,7 +39,7 @@
           img(src='@/assets/curso/temas/tema6/img-4.jpg', alt='<em>Marketing de guerrilla:</em> conciencia sobre la contaminación.')
           figcaption Fuente: (adsoftheworld.com, Sin Fecha).
 
-    .row.fondo.fn-1
+    .fondo.fn-1
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-3
           figure(data-aos="zoom-in")

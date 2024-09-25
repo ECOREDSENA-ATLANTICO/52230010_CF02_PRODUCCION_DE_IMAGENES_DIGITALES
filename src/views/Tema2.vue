@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Campañas publicitarias
-    .row.fondo      
+    .fondo      
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-1.png')})`}"
@@ -56,21 +56,21 @@
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure.mb-4
-              img(src='@/assets/curso/temas/tema2/img-5.png', alt='Etapas del modelo de desarrollo de campañas de Yale publicitaria.')
+              img(src='@/assets/curso/temas/tema2/img-5-s.png', alt='Etapas del modelo de desarrollo de campañas de Yale publicitaria.')
             figcaption Fuente: SENA (2014)
-          .tarjeta.fnd-4.p-3(x="9.5%" y="64%" numero="+")
+          .tarjeta.fnd-4.p-3.p1(x="9.5%" y="66%" numero="+")
             .h4.mb-2 01
             p Identificación de la marca con sus objetivos de comunicación.
-          .tarjeta.fnd-4.p-3(x="29.6%" y="64%" numero="+")
+          .tarjeta.fnd-4.p-3.p2(x="29.6%" y="66%" numero="+")
             .h4.mb-2 02
             p Legitimación donde una autoridad o celebridad legitime la eficacia del producto o servicio.
-          .tarjeta.fnd-4.p-3(x="49.8%" y="64%" numero="+")
+          .tarjeta.fnd-4.p-3.p3(x="49.8%" y="66%" numero="+")
             .h4.mb-2 03
             p Involucra la participación de la gente para que se integre a la campaña.
-          .tarjeta.fnd-4.p-3(x="70%" y="64%" numero="+")
+          .tarjeta.fnd-4.p-3.p4(x="70%" y="66%" numero="+")
             .h4.mb-2 04
             p Penetración que evidencia el consumo de la marca y las reacciones en la audiencia.
-          .tarjeta.fnd-4.p-3(x="90.5%" y="64%" numero="+")
+          .tarjeta.fnd-4.p-3.p5(x="90.5%" y="66%" numero="+")
             .h4.mb-2 05
             p Genera una institución de ideales y consolida una imagen duradera de la marca.
 
@@ -84,14 +84,20 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-9
         p Los objetivos de la campaña fueron encaminados a mejorar los niveles de recordación amarrados a los volúmenes de venta: 
-        ul.lista-ul--color.mb-4
-          li 
+        .row.mb-4.pe-lg-3
+          .col-auto.pe-2
             i.fas.fa-check.pink
-            | Mejorar los niveles de<em> Top of Mind </em>en el target de jóvenes de 12 y 24 años.
-          li 
+          .col.px-0
+            p Mejorar los niveles de<em> Top of Mind </em>en el target de jóvenes de 12 y 24 años.
+
+        .row.mb-4.pe-lg-3
+          .col-auto.pe-2
             i.fas.fa-check.pink
-            | Incrementar los niveles de consideración vía el indicador “consumo últimos 4 semanas “, que al iniciar la campaña estaba en 21 puntos y (=3) incrementar los volúmenes de venta. 
-  
+          .col.px-0
+            p Incrementar los niveles de consideración vía el indicador “consumo últimos 4 semanas “, que al iniciar la campaña estaba en 21 puntos y (=3) incrementar los volúmenes de venta. 
+
+
+
         .cajon.color-primario.p-4.mb-4.fnd-1
           p La campaña “Mi Casa “, inició en 2001 con la primera etapa fundamentada en mostrar los lugares de la casa como símbolos de orgullo y comodidad. 
       .col-lg-3.col-sm-8

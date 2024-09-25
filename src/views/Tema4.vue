@@ -7,7 +7,7 @@
         span 4
       h1 Tipos de medios no convencionales
 
-    .row.fondo   
+    .fondo   
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-1.jpg')})`}"
@@ -20,7 +20,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema4/img-2.png").img400.m-auto
         .col-lg-9
-          SlyderF.custom(columnas="col-lg-6 col-xl-4")
+          SlyderF.custom(columnas="col-lg-6 col-xl-4 col-md-6")
             .tarjeta.tarjeta--slyder.p-4.fnd-7
               h4.mb-0 01
               .row.justify-content-center.mb-3
@@ -120,7 +120,7 @@
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-10.fnd-8
-          p Los medios no convencionales generan experiencias únicas y personalizadas para promover sus marcas. De acuerdo a Ramírez Reyes (2009).
+          p.m-0.p-3 Los medios no convencionales generan experiencias únicas y personalizadas para promover sus marcas. De acuerdo a Ramírez Reyes (2009).
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")

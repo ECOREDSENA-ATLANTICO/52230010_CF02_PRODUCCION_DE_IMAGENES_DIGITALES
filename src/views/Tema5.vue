@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 5
       h1 Campañas BTL
-    .row.fondo
+    .fondo
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-sm-8.mb-sm-4
           figure(data-aos="zoom-in")
@@ -37,7 +37,7 @@
                 .h4.mb-2 04
                 p <b>Diferenciarse de la competencia:</b> Mediante enfoques innovadores, una campaña BTL permite a las empresas destacarse en un mercado saturado	
 
-    .row.fondo.fn-1(data-aos="fade-left")
+    .fondo.fn-1(data-aos="fade-left")
 
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
@@ -73,7 +73,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4.col-sm-8
+      .col-lg-4.col-sm-8.mb-4
         figure
           img(src='@/assets/curso/temas/tema5/img-5.png')
       .col-lg-8
@@ -85,7 +85,7 @@
             i.fas.fa-quote-right <br>
             p.der - (p. 16-17)
     .cajon.color-primario.p-4.mb-4.fnd-1
-      p Por ejemplo, para promocionar una cámara digital, se instalaron en un metro carteleras iluminadas con detectores de movimiento y con flashes. Esta cartelera activaba luces de cámaras cuando personas caminaban al lado de ella y hacían sentir a las personas como estrellas de cine, las cuales caminaban sobre una alfombra roja que las llevaba directamente a la tienda de cámaras.
+      p.mb-0 Por ejemplo, para promocionar una cámara digital, se instalaron en un metro carteleras iluminadas con detectores de movimiento y con flashes. Esta cartelera activaba luces de cámaras cuando personas caminaban al lado de ella y hacían sentir a las personas como estrellas de cine, las cuales caminaban sobre una alfombra roja que las llevaba directamente a la tienda de cámaras.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.mb-4
