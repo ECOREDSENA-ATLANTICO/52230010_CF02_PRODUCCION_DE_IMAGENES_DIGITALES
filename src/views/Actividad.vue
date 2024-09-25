@@ -24,7 +24,7 @@ export default {
         {
           id: 1,
           texto: '¿Cuál de los siguientes es un medio convencional?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Redes sociales.', esCorrecta: false },
@@ -39,7 +39,7 @@ export default {
           id: 2,
           texto:
             '¿Qué característica distingue a las revistas como medio convencional?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-2.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Publicidad interactiva', esCorrecta: false },
@@ -62,7 +62,7 @@ export default {
           id: 3,
           texto:
             '¿Qué medio convencional es conocido por su accesibilidad en zonas rurales?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-3.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Cine', esCorrecta: false },
@@ -76,7 +76,7 @@ export default {
         {
           id: 4,
           texto: '¿Cuál es un ejemplo de comunicación transmedia?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Anuncios en revistas.', esCorrecta: false },
@@ -99,7 +99,7 @@ export default {
         {
           id: 5,
           texto: '¿Qué es una campaña BTL?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -130,7 +130,7 @@ export default {
         {
           id: 6,
           texto: '¿Qué caracteriza una comunicación transmedia?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -160,7 +160,7 @@ export default {
         {
           id: 7,
           texto: '¿Qué incluyen los tipos de medios no convencionales?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-3.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Televisión y radio.', esCorrecta: false },
@@ -179,7 +179,7 @@ export default {
           id: 8,
           texto:
             '¿Qué medio es más adecuado para una campaña que busca el impacto visual masivo?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Revistas', esCorrecta: false },
@@ -193,7 +193,7 @@ export default {
         {
           id: 9,
           texto: '¿Por qué se caracteriza el marketing de guerrilla?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -224,7 +224,7 @@ export default {
           id: 10,
           texto:
             '¿En qué tipo de campañas son más comunes los medios no convencionales?',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/curso/temas/actividad/img-2.png'),
           barajarRespuestas: true,
           opciones: [
             {
