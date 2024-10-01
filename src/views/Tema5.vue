@@ -12,10 +12,11 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema5/img-1.svg").img400.m-auto
         .col-lg-8
-          p Para el desarrollo de una campaña BTL, es necesario conocer el insight del consumidor: sus percepciones del producto o sensaciones frente a la experiencia de consumir la marca. Comprender el insight del consumidor, permite el desarrollo de estrategias de marketing en puntos de venta acompañadas por publicidad. Por ejemplo, la implementación del marketing promocional el cual genera incentivos y experiencias directas para persuadir la compra del producto o servicio. 
+          p Para el desarrollo de una campaña BTL, es necesario conocer el <em>insight</em> del consumidor: sus percepciones del producto o sensaciones frente a la experiencia de consumir la marca. Comprender el <em>insight</em> del consumidor, permite el desarrollo de estrategias de <em>marketing </em>en puntos de venta acompañadas por publicidad. Por ejemplo, la implementación del <em>marketing</em> promocional el cual genera incentivos y experiencias directas para persuadir la compra del producto o servicio. 
           p Las campañas BTL, funcionan mediante la creación de experiencias únicas que conectan directamente con el consumidor. Esto puede incluir acciones en puntos de venta, promociones callejeras, activaciones de marca, publicidad en medios alternativos, o eventos experienciales. Estas tácticas están diseñadas para sorprender y atraer la atención del público objetivo, generando una interacción más personal y efectiva en comparación con los medios publicitarios tradicionales.
-      p En una campaña BTL, se diseña un escenario e instalaciones en espacios públicos donde se ejecutan los medios publicitarios y estrategias como marketing sensorial el cual hace uso de los sentidos para impactar al consumidor y hacerle vivir una experiencia memorable. 
-      p.mb-4 Los beneficios de las campañas BTL son: 
+   
+      .cajon.color-primario.p-4.mb-4.fnd-1
+        p En una campaña BTL, se diseña un escenario e instalaciones en espacios públicos donde se ejecutan los medios publicitarios y estrategias como <em>marketing</em> sensorial el cual hace uso de los sentidos para impactar al consumidor y hacerle vivir una experiencia memorable. <b> Los beneficios de las campañas BTL son: </b>
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-8
@@ -55,10 +56,10 @@
             img(src='@/assets/curso/temas/tema5/img-4.jpg', alt='Ejemplo de campaña BTL en baños de centros comerciales en Brasil.')
             figcaption Fuente: (circulodeinnovacion.com)
 
-    p.mb-4 Otro ejemplo, es el de una cerveza que instaló unos recipientes en la calle indicando que se quitaran las corbatas para vivir una sensación de libertad, a cambio le entregaban un regalo basado en una invitación a tomar cerveza gratis en un bar cercano. 
+    p.mb-4 Otro ejemplo, es el de una compañía de cerveza, que instaló unos recipientes en los centros comerciales, indicando a las personas que se quitaran las corbatas, para vivir una sensación de libertad, a cambio le entregaban un regalo basado en una invitación a tomar cerveza gratis en un bar cercano. 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
-        .tarjeta.p-3.fnd-13
+        .tarjeta.p-lg-3.fnd-13
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/curso/temas/tema3/img-3.svg").img65
@@ -85,7 +86,7 @@
             i.fas.fa-quote-right <br>
             p.der - (p. 16-17)
     .cajon.color-primario.p-4.mb-4.fnd-1
-      p.mb-0 Por ejemplo, para promocionar una cámara digital, se instalaron en un metro carteleras iluminadas con detectores de movimiento y con flashes. Esta cartelera activaba luces de cámaras cuando personas caminaban al lado de ella y hacían sentir a las personas como estrellas de cine, las cuales caminaban sobre una alfombra roja que las llevaba directamente a la tienda de cámaras.
+      p.mb-0 Por ejemplo, para promocionar una cámara digital, se instalaron en un metro carteleras iluminadas con detectores de movimiento y con <em>flash</em>. Esta cartelera activaba luces de cámaras cuando personas caminaban al lado de ella y hacían sentir a las personas como estrellas de cine, las cuales caminaban sobre una alfombra roja que las llevaba directamente a la tienda de cámaras.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.mb-4
@@ -112,7 +113,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-8
-        .tarjeta.p-3.fnd-13
+        .tarjeta.p-lg-3.fnd-13
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/curso/temas/tema3/img-3.svg").img65

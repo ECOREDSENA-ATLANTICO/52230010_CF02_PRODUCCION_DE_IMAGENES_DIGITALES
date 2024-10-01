@@ -40,7 +40,7 @@
             .row.align-items-center.justify-content-center
               .col-lg-6.col-sm-12.mb-4.mb-md-0
                 h3 Cine 	
-                p El cine es una plataforma poderosa para la publicidad, ya que combina narrativa visual y emocional para captar la atención del público. La publicidad en el cine ofrece un impacto visual máximo y una segmentación adecuada de acuerdo con el público de la película. Los anuncios insertos en películas o tráilers, aprovechan el impacto de la imagen en movimiento para promover productos y marcas de manera creativa. Se utilizan formatos como los spots antes de la proyección de la película, para el posicionamiento de producto, en el cual se referencia el producto o servicio dentro de la narrativa de la película. Esta integración no solo enriquece la experiencia cinematográfica, sino que también maximiza el alcance y la efectividad de los mensajes publicitarios.
+                p El cine es una plataforma poderosa para la publicidad, ya que combina narrativa visual y emocional para captar la atención del público. La publicidad en el cine ofrece un impacto visual máximo y una segmentación adecuada de acuerdo con el público de la película. Los anuncios insertos en películas o tráilers, aprovechan el impacto de la imagen en movimiento para promover productos y marcas de manera creativa. Se utilizan formatos como los <em>spots</em> antes de la proyección de la película, para el posicionamiento de producto, en el cual se referencia el producto o servicio dentro de la narrativa de la película. Esta integración no solo enriquece la experiencia cinematográfica, sino que también maximiza el alcance y la efectividad de los mensajes publicitarios.
               .col-lg-6.col-sm-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img-4.png') 
@@ -49,14 +49,14 @@
               .col-lg-6.col-sm-12.mb-4.mb-md-0
                 h3 Radio 	
                 p.mb-0 La radio es un medio eficaz para la publicidad, debido a su capacidad de llegar a audiencias diversas a través de la transmisión en vivo y su accesibilidad constante. La publicidad radiofónica se implementa de acuerdo con la segmentación de la audiencia, y su costo se basa en la frecuencia de emisión diaria. 
-                p Esta exposición frecuente fortalece el reconocimiento de la marca y la fidelidad del consumidor, en horarios y programas específicos, maximizando la exposición. Los formatos mayormente utilizados son la cuña, basada en un mensaje pregrabado con una duración de 15 a 30 segundos, y el jingle, que es un anuncio cantado
+                p Esta exposición frecuente fortalece el reconocimiento de la marca y la fidelidad del consumidor, en horarios y programas específicos, maximizando la exposición. Los formatos mayormente utilizados son la cuña, basada en un mensaje pregrabado con una duración de 15 a 30 segundos, y el <em>jingle</em>, que es un anuncio cantado
               .col-lg-6.col-sm-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img-5.png')  
             .row.align-items-center.justify-content-center
               .col-lg-6.col-sm-12.mb-4.mb-md-0
                 h3 Televisión
-                p La televisión es crucial para la publicidad de productos y servicios, porque ofrece un alcance masivo y segmentado. Se caracteriza por anunciar el producto o servicio con imágenes en movimiento y efectos sonoros especiales. Su importancia radica en su capacidad para captar la atención del espectador mediante contenido visual y auditivo impactante. La publicidad se utiliza para generar reconocimiento de marca, atraer clientes y potenciar las ventas a través de anuncios bien elaborados y ubicados estratégicamente. Este medio goza de varios formatos, como el spot televisivo, que es un comercial de aproximadamente 30 segundos, donde se promocionan y venden los productos en la parrilla de programación.	
+                p La televisión es crucial para la publicidad de productos y servicios, porque ofrece un alcance masivo y segmentado. Se caracteriza por anunciar el producto o servicio con imágenes en movimiento y efectos sonoros especiales. Su importancia radica en su capacidad para captar la atención del espectador mediante contenido visual y auditivo impactante. La publicidad se utiliza para generar reconocimiento de marca, atraer clientes y potenciar las ventas a través de anuncios bien elaborados y ubicados estratégicamente. Este medio goza de varios formatos, como el <em>spot</em> televisivo, que es un comercial de aproximadamente 30 segundos, donde se promocionan y venden los productos en la parrilla de programación.	
               .col-lg-6.col-sm-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img-6.png')             
@@ -64,14 +64,14 @@
               .col-lg-6.col-sm-12.mb-4.mb-md-0
                 h3 Internet	
                 p.mb-0 En la era digital, el internet es una herramienta esencial para la publicidad, ofreciendo un alcance global sin precedentes. Permite a las marcas fragmentar su audiencia con precisión, personalizar mensajes y medir resultados en tiempo real, maximizando la efectividad de las campañas. Su flexibilidad y capacidad para adaptarse a nuevas tendencias lo convierten en un medio fundamental de la estrategia publicitaria moderna.
-                p Los formatos de promoción en internet son los banners, videos, anuncios en redes sociales y marketing de contenidos, que permiten segmentar anuncios según intereses y comportamientos, para incrementar la visibilidad, atraer clientes potenciales y crear campañas dirigidas y efectivas.
+                p Los formatos de promoción en internet son los banners, videos, anuncios en redes sociales y <em>marketing</em> de contenidos, que permiten segmentar anuncios según intereses y comportamientos, para incrementar la visibilidad, atraer clientes potenciales y crear campañas dirigidas y efectivas.
               .col-lg-6.col-sm-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img-7.png')   
             .row.align-items-center.justify-content-center
               .col-lg-6.col-sm-12.mb-4.mb-md-0
                 h3 Publicidad exterior	
-                p.mb-0 La publicidad exterior es una estrategia visual que utiliza espacios públicos, como las vallas fijas o móviles; la publicidad sobre mobiliario urbano, como el mupi, que aloja carteles publicitarios ubicados en las paradas de autobús; y la publicidad en transportes públicos, como taxis o autobuses. También se emplea la publicidad aérea, con carteleras en avionetas o zeppelines (globos aerostáticos ovalados), para promover productos o servicios.
+                p.mb-0 La publicidad exterior es una estrategia visual que utiliza espacios públicos, como las vallas fijas o móviles; la publicidad sobre mobiliario urbano, como el "mupi", que aloja carteles publicitarios ubicados en las paradas de autobús; y la publicidad en transportes públicos, como taxis o autobuses. También se emplea la publicidad aérea, con carteleras en avionetas o zepelines (globos aerostáticos ovalados), para promover productos o servicios.
                 p Su objetivo es captar la atención de un gran número de personas en su entorno cotidiano. Para lograrlo, se emplean diseños llamativos y mensajes directos, ubicados en lugares estratégicos con alto tráfico, garantizando así un amplio alcance e impacto.	 
               .col-lg-6.col-sm-8
                 figure

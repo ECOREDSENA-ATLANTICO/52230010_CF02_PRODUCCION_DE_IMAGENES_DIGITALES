@@ -79,7 +79,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-6.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p A continuación, se describirá una campaña exitosa de una bebida nacional denominada “Mi Casa” que se ejecutó en cuatro etapas.  De acuerdo a Ospina et al (2009), la estrategia creativa de la campaña se basó en mostrar las cosas únicas del país que hacían sentir orgullosos a los colombianos desde los lugares, la música, la gente y el arte, comenzado un recorrido como si fueran a mostrar “Mi Casa”, con el fin de rejuvenecer la marca. Para ello se escogió un grupo objetivo entre los 12 y 24 años de edad y se recurrió al patriotismo como fuente emocional.   
+        p A continuación, se describirá una campaña exitosa de una bebida nacional denominada “Mi Casa” que se ejecutó en cuatro etapas.  De acuerdo a Ospina et al. (2009), la estrategia creativa de la campaña se basó en mostrar las cosas únicas del país que hacían sentir orgullosos a los colombianos desde los lugares, la música, la gente y el arte, comenzando un recorrido como si fueran a mostrar “Mi casa”, con el fin de rejuvenecer la marca. Para ello se escogió un grupo objetivo entre los 12 y 24 años de edad y se recurrió al patriotismo como fuente emocional.   
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-9
@@ -104,19 +104,122 @@
         figure
           img(src='@/assets/curso/temas/tema2/img-7.png').img400.m-auto          
 
-    p En esta primera etapa se produjeron 10 comerciales para televisión cuyos protagonistas eran jóvenes identificados por su lenguaje y sus formas de vestir. Por ejemplo, mostraban la Guajira y el protagonista decía: “Este es mi cuarto” o en Medellín, el protagonista decía: “Este es mi comedor”. La segunda etapa: mi casa tiene Música, buscó aquella música que hacía sentir orgullo a los jóvenes que involucro la composición de piezas para cuñas radiales por parte de artistas nacionales. La tercera etapa involucró a la gente y como ellos bailan y expresan amor en sus casas junto a la bebida por medio de <em>spots</em> televisivos.  La cuarta y última etapa convocó a la gente a enviar propuestas de televisión, radio y diseño gráfico por medio de una página web, expresando el significado de ser colombiano, de ser parte de la casa colombiana. Se recibieron 106.277 visitas a la página web y se eligieron tres conceptos ganadores. 
+    .row.mb-4.justify-content-center.align-items-center(data-aos="zoom-in")
+      .col-auto.pe-2
+        figure
+          img(src='@/assets/curso/temas/tema2/img-8.svg')
+      .col
+        h3.mb-0 Etapas de la campaña “Mi Casa”
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+
+    .row.justify-content-center.align-items-center.mb-5.fnd-2.p-5(data-aos="zoom-in")
+      .tarjeta.p-4
+        SlyderA(tipo="b")
+          .row.align-items-center.justify-content-center
+            .col-lg-6.col-sm-12.mb-4.mb-md-0.order-2.order-lg-1
+              h3 Comerciales televisión	
+              p.mb-5 En esta primera etapa se produjeron 10 comerciales para televisión cuyos protagonistas eran jóvenes identificados por su lenguaje y sus formas de vestir. Por ejemplo, mostraban la Guajira y el protagonista decía: “Este es mi cuarto” o en Medellín, el protagonista decía: “Este es mi comedor”.
+              .tarjeta.p-lg-3.fnd-13
+                .row.justify-content-around.align-items-center
+                  .col-auto
+                    img(src="@/assets/curso/temas/tema3/img-3.svg").img65
+                  .col
+                    .row.justify-content-between.align-items-center
+                      .col.mb-3.mb-sm-0
+                        h5.mb-0 Comercial Colombiana | Campaña “Mi Casa” - Ref: Tomás (2001).
+                      .col-sm-auto
+                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HYC_41Jufoo" target="_blank")
+                          span Enlace
+                          i.fas.fa-file-download
+
+            .col-lg-6.col-sm-8.order-1.order-lg-2.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img-9.png')
+          .row.align-items-center.justify-content-center
+            .col-lg-6.col-sm-12.mb-4.mb-md-0.order-2.order-lg-1
+              h3 Música juvenil	
+              p.mb-5 La segunda etapa: mi casa tiene Música, buscó aquella música que hacía sentir orgullo a los jóvenes que involucro la composición de piezas para cuñas radiales por parte de artistas nacionales.
+              .tarjeta.p-lg-3.fnd-13
+                .row.justify-content-around.align-items-center
+                  .col-auto
+                    img(src="@/assets/curso/temas/tema3/img-3.svg").img65
+                  .col
+                    .row.justify-content-between.align-items-center
+                      .col.mb-3.mb-sm-0
+                        h5.mb-0 Comercial Colombiana Postobón | Ref: Sonidos de mi Casa con Andrés Cabas (2003-2004).
+                      .col-sm-auto
+                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HMWcVM0lrMk" target="_blank")
+                          span Enlace
+                          i.fas.fa-file-download
+
+            .col-lg-6.col-sm-8.order-1.order-lg-2.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img-10.png')  
+          .row.align-items-center.justify-content-center
+            .col-lg-6.col-sm-12.mb-4.mb-md-0.order-2.order-lg-1
+              h3 Baile y amor	
+              p.mb-5 La tercera etapa involucró a la gente y como ellos bailan y expresan amor en sus casas junto a la bebida por medio de <em>spots</em> televisivos.  
+              .tarjeta.p-lg-3.fnd-13
+                .row.justify-content-around.align-items-center
+                  .col-auto
+                    img(src="@/assets/curso/temas/tema3/img-3.svg").img65
+                  .col
+                    .row.justify-content-between.align-items-center
+                      .col.mb-3.mb-sm-0
+                        h5.mb-0 Comercial Colombiana (Postobon) | Campaña Mi Casa - Ref: Paloma (2001).
+                      .col-sm-auto
+                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=dA_YIjf1lZ0" target="_blank")
+                          span Enlace
+                          i.fas.fa-file-download
+
+            .col-lg-6.col-sm-8.order-1.order-lg-2.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img-11.png')         
+          .row.align-items-center.justify-content-center
+            .col-lg-6.col-sm-12.mb-4.mb-md-0.order-2.order-lg-1
+              h3 Propuestas de televisión	
+              p.mb-5 La cuarta y última etapa convocó a la gente a enviar propuestas de televisión, radio y diseño gráfico por medio de una página web, expresando el significado de ser colombiano, de ser parte de la casa colombiana. Se recibieron 106.277 visitas a la página web y se eligieron tres conceptos ganadores. 
+              .tarjeta.p-lg-3.fnd-13
+                .row.justify-content-around.align-items-center
+                  .col-auto
+                    img(src="@/assets/curso/temas/tema3/img-3.svg").img65
+                  .col
+                    .row.justify-content-between.align-items-center
+                      .col.mb-3.mb-sm-0
+                        h5.mb-0 Comercial Colombiana (Postobon) | Campaña Mi Casa - Ref: Paloma (2001).
+                      .col-sm-auto
+                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=dA_YIjf1lZ0" target="_blank")
+                          span Enlace
+                          i.fas.fa-file-download
+            .col-lg-6.col-sm-8.order-1.order-lg-2.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img-12.png')       
+
+
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-4.col-sm-8
         figure.mb-5
-          img(src='@/assets/curso/temas/tema2/img-8.png').img400.m-auto    
+          img(src='@/assets/curso/temas/tema2/img-13.png').img400.m-auto    
       .col-lg-8
-        p Se concluye, que el concepto de etnocentrismo se asoció a la imagen de la marca, generando orgullo por el país y consumo de la bebida. En la primera etapa se logró identificar y asociar la marca con símbolos patrios y juveniles. La segunda etapa buscó legitimar la imagen de la marca con apoyo de artistas famosos de Colombia, en la cuarta etapa se visualizó la participación de la gente común en el refuerzo del concepto creativo, finalmente en la cuarta etapa se consolidó la participación activa de la gente en la construcción simbólica de marca y consumo de bebida. 
-        .cajon.color-secundario.p-4.mb-4
-          p Por otro lado, la campaña cumplió los objetivos al incrementar 4 puntos en el indicador <em>top of mind</em> (recordación), se incrementó el consumo de la bebida y creció el consumo de marca pasando a un 55% entre consumidores entre los 12 y 29 años.  
+        p Se concluye, que el concepto de etnocentrismo se asoció a la imagen de la marca, generando orgullo por el país y consumo de la bebida. A continuación, se explicas las etapas de la campaña:
+        p La campaña logró aumentar 4 puntos en <em>top of mind</em> y elevó el consumo de la marca al 55% entre jóvenes.
 
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/tema2/img-14.svg', alt='Las etapas de la campaña')
 
+          .tarjeta.fnd-4.p-3.p1(y="46.6%" x="22.5%" numero="+")
+            p En la primera etapa se logró identificar y asociar la marca con símbolos patrios y juveniles.
+          .tarjeta.fnd-4.p-3.p1(y="46.6%" x="47.5%" numero="+")
+            p La segunda etapa buscó legitimar la imagen de la marca con apoyo de artistas famosos de Colombia.
+          .tarjeta.fnd-4.p-3.p1(y="46.6%" x="72.2%" numero="+")
+            p Tercera etapa se visualizó la participación de la gente común en el refuerzo del concepto creativo.
+          .tarjeta.fnd-4.p-3.p1(y="46.6%" x="96.8%" numero="+")
+            p Cuarta etapa se consolidó la participación activa de la gente en la construcción simbólica de marca y consumo de bebida. 
 
+    .cajon.color-secundario.p-4.mb-4
+      p Por otro lado, la campaña cumplió los objetivos al incrementar 4 puntos en el indicador top of mind (recordación), se incrementó el consumo de la bebida y creció el consumo de marca pasando a un 55% entre consumidores entre los 12 y 29 años.  
 
 
 

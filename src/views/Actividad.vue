@@ -29,7 +29,11 @@ export default {
           opciones: [
             { id: 'a', texto: 'Redes sociales.', esCorrecta: false },
             { id: 'b', texto: 'Prensa.', esCorrecta: true },
-            { id: 'c', texto: 'Marketing de guerrilla.', esCorrecta: false },
+            {
+              id: 'c',
+              texto: '<em>Marketing</em> de guerrilla.',
+              esCorrecta: false,
+            },
             { id: 'd', texto: 'Publicidad BTL.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -42,16 +46,16 @@ export default {
           imagen: require('@/assets/curso/temas/actividad/img-2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Publicidad interactiva', esCorrecta: false },
-            { id: 'b', texto: 'Alto costo de producción', esCorrecta: false },
+            { id: 'a', texto: 'Publicidad interactiva.', esCorrecta: false },
+            { id: 'b', texto: 'Alto costo de producción.', esCorrecta: false },
             {
               id: 'c',
-              texto: 'Publicaciones periódicas impresas',
+              texto: 'Publicaciones periódicas impresas.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Uso exclusivo en campañas digitales',
+              texto: 'Uso exclusivo en campañas digitales.',
               esCorrecta: false,
             },
           ],
@@ -65,8 +69,8 @@ export default {
           imagen: require('@/assets/curso/temas/actividad/img-3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Cine', esCorrecta: false },
-            { id: 'b', texto: 'Televisión', esCorrecta: false },
+            { id: 'a', texto: 'Cine.', esCorrecta: false },
+            { id: 'b', texto: 'Televisión.', esCorrecta: false },
             { id: 'c', texto: 'Radio.', esCorrecta: true },
             { id: 'd', texto: 'Internet.', esCorrecta: false },
           ],
@@ -89,7 +93,7 @@ export default {
             { id: 'c', texto: 'Publicidad en exteriores.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'Campañas de marketing de guerrilla.',
+              texto: 'Campañas de <em>marketing</em> de guerrilla.',
               esCorrecta: false,
             },
           ],
@@ -182,17 +186,17 @@ export default {
           imagen: require('@/assets/curso/temas/actividad/img-4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Revistas', esCorrecta: false },
-            { id: 'b', texto: 'Radio', esCorrecta: false },
-            { id: 'c', texto: 'Televisión', esCorrecta: true },
-            { id: 'd', texto: 'Prensa', esCorrecta: false },
+            { id: 'a', texto: 'Revistas.', esCorrecta: false },
+            { id: 'b', texto: 'Radio.', esCorrecta: false },
+            { id: 'c', texto: 'Televisión.', esCorrecta: true },
+            { id: 'd', texto: 'Prensa.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 9,
-          texto: '¿Por qué se caracteriza el marketing de guerrilla?',
+          texto: '¿Por qué se caracteriza el <em>marketing</em> de guerrilla?',
           imagen: require('@/assets/curso/temas/actividad/img-1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -248,9 +252,10 @@ export default {
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_aprobado:
+        '¡Excelente! Lo felicito, ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica. ',
     },
   }),
   computed: {},

@@ -207,7 +207,7 @@ export default {
     },
     {
       referencia:
-        'Gutierrez, b (Sin fecha). Capítulo 1. Medios no convencionales. ',
+        'Gutierrez, b. (Sin fecha). Capítulo 1. Medios no convencionales. ',
       link:
         'http://catarina.udlap.mx/u_dl_a/tales/documentos/lco/gutierrez_b_bp/capitulo1.pdf ',
     },
@@ -233,7 +233,7 @@ export default {
     },
     {
       referencia:
-        'Ramírez Reyes, C. (2009). Pasos para ejecutar una campaña BTL',
+        'Ramírez Reyes, C. (2009). Pasos para ejecutar una campaña BTL.',
     },
     {
       referencia:
@@ -242,7 +242,7 @@ export default {
     },
     {
       referencia:
-        'Torreblanca Díaz, Francisco <em>et al (2012). Marketing de guerrilla. Lo no convencional triunfa. </em>',
+        'Torreblanca Díaz, Francisco <em>et al (2012). <em>Marketing</em> de guerrilla. Lo no convencional triunfa. </em>',
       link:
         'http://www.3ciencias.com/wp-content/uploads/2012/12/mk-de-guerrilla2.pdf',
     },
@@ -254,7 +254,7 @@ export default {
       referencia:
         'Zuluaga, J. David (2010). BTL, <em>una herramienta para recordar y fidelizar.  </em>',
       link:
-        'https://repository.eafit.edu.co/bitstream/handle/10784/2804/ZuluagaDuque_JuanDavid_2010.pdf?sequence=1',
+        'https://repository.eafit.edu.co/items/e7fde27e-c5a3-45f6-b901-8dff897fbb86',
     },
   ],
   creditos: [

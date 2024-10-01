@@ -13,7 +13,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-1.jpg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Los medios no convencionales o BTL (<em>below the line</em>) son medios publicitarios alternativos que requieren de menor inversión y buscan una relación más directa y personal con los consumidores. De acuerdo a Losada et al (2004), los siguientes medios son considerados ejemplos de medios no convencionales:
+          p.mb-0 Los medios no convencionales o BTL (<em>below the line</em>) son medios publicitarios alternativos que requieren de menor inversión y buscan una relación más directa y personal con los consumidores. De acuerdo a Losada et al. (2004), los siguientes medios son considerados ejemplos de medios no convencionales:
 
       .row.justify-content-center.align-items-center.mb-5.fnd-6(data-aos="zoom-in")
         .col-lg-3.col-sm-6.mb-4
@@ -132,11 +132,11 @@
             i.fas.fa-quote-right <br>
             p.der - (p. 34). 
 
-    p Los medios no convencionales buscan estrategias publicitarias muy creativas desde el marketing para lograr un vínculo con el público objetivo, una conexión face to face(directa) entre la marca y el consumidor hasta lograr su lealtad. 
+    p Los medios no convencionales buscan estrategias publicitarias muy creativas desde el <em>marketing</em> para lograr un vínculo con el público objetivo, una conexión <em>face to face</em>(directa) entre la marca y el consumidor hasta lograr su lealtad. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
-        .tarjeta.p-3.fnd-13
+        .tarjeta.p-lg-3.fnd-13
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/curso/temas/tema3/img-3.svg").img65
