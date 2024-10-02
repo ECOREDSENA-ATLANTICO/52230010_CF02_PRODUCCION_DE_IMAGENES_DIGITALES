@@ -248,7 +248,7 @@ export default {
     },
     {
       referencia:
-        '<em>Turnerbenelux (2012)A Dramatic surprise on a quiet square. </em>',
+        '<em>Turnerbenelux (2012). A Dramatic surprise on a quiet square. </em>',
     },
     {
       referencia:
