@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="851.14" height="87" viewBox="0 0 851.14 87">
+  <defs>
+    <filter id="Rectángulo_402824" x="0" y="0" width="205" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_402825" x="417" y="0" width="205" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_402826" x="207" y="0" width="205" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_402827" x="633" y="0" width="205" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_501624" x="161.14" y="14.681" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_501624-2" x="374.5" y="14.681" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_501624-3" x="584.5" y="14.681" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_501624-4" x="794.14" y="14.681" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="img-14" transform="translate(3202 6219)">
+    <g transform="matrix(1, 0, 0, 1, -3202, -6219)" filter="url(#Rectángulo_402824)">
+      <rect id="Rectángulo_402824-2" data-name="Rectángulo 402824" width="187" height="69" rx="5" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3202, -6219)" filter="url(#Rectángulo_402825)">
+      <rect id="Rectángulo_402825-2" data-name="Rectángulo 402825" width="187" height="69" rx="5" transform="translate(426 6)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3202, -6219)" filter="url(#Rectángulo_402826)">
+      <rect id="Rectángulo_402826-2" data-name="Rectángulo 402826" width="187" height="69" rx="5" transform="translate(216 6)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3202, -6219)" filter="url(#Rectángulo_402827)">
+      <rect id="Rectángulo_402827-2" data-name="Rectángulo 402827" width="187" height="69" rx="5" transform="translate(642 6)" fill="#fff"/>
+    </g>
+    <rect id="Rectángulo_402828" data-name="Rectángulo 402828" width="65" height="69" rx="5" transform="translate(-3193 -6213)" fill="#fe80a7"/>
+    <rect id="Rectángulo_402829" data-name="Rectángulo 402829" width="65" height="69" rx="5" transform="translate(-2776 -6213)" fill="#fe80a7"/>
+    <rect id="Rectángulo_402830" data-name="Rectángulo 402830" width="65" height="69" rx="5" transform="translate(-2986 -6213)" fill="#7b40f2"/>
+    <rect id="Rectángulo_402831" data-name="Rectángulo 402831" width="65" height="69" rx="5" transform="translate(-2560 -6213)" fill="#7b40f2"/>
+    <text id="Etapa_1" data-name="Etapa 1" transform="translate(-3117 -6172)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Etapa 1</tspan></text>
+    <text id="Etapa_3" data-name="Etapa 3" transform="translate(-2700 -6172)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Etapa 3</tspan></text>
+    <text id="Etapa_2" data-name="Etapa 2" transform="translate(-2910 -6172)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Etapa 2</tspan></text>
+    <text id="Etapa_4" data-name="Etapa 4" transform="translate(-2484 -6172)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Etapa 4</tspan></text>
+    <path id="Trazado_875534" data-name="Trazado 875534" d="M174.726,206.736c3.883-3.889,7.6-7.633,11.346-11.35,1.423-1.413,3.455-1.155,4.237.495a2.338,2.338,0,0,1-.431,2.814q-6.643,6.7-13.345,13.346a2.412,2.412,0,0,1-3.623-.067q-3.222-3.136-6.36-6.359a2.521,2.521,0,1,1,3.556-3.571c1.544,1.5,3.021,3.061,4.62,4.691" transform="translate(-3338.732 -6382.467)" fill="#12263f"/>
+    <path id="Trazado_875535" data-name="Trazado 875535" d="M174.726,206.736c3.883-3.889,7.6-7.633,11.346-11.35,1.423-1.413,3.455-1.155,4.237.495a2.338,2.338,0,0,1-.431,2.814q-6.643,6.7-13.345,13.346a2.412,2.412,0,0,1-3.623-.067q-3.222-3.136-6.36-6.359a2.521,2.521,0,1,1,3.556-3.571c1.544,1.5,3.021,3.061,4.62,4.691" transform="translate(-2921.732 -6382.467)" fill="#12263f"/>
+    <path id="Trazado_875536" data-name="Trazado 875536" d="M174.726,206.736c3.883-3.889,7.6-7.633,11.346-11.35,1.423-1.413,3.455-1.155,4.237.495a2.338,2.338,0,0,1-.431,2.814q-6.643,6.7-13.345,13.346a2.412,2.412,0,0,1-3.623-.067q-3.222-3.136-6.36-6.359a2.521,2.521,0,1,1,3.556-3.571c1.544,1.5,3.021,3.061,4.62,4.691" transform="translate(-3131.732 -6382.467)" fill="#fff"/>
+    <path id="Trazado_875537" data-name="Trazado 875537" d="M174.726,206.736c3.883-3.889,7.6-7.633,11.346-11.35,1.423-1.413,3.455-1.155,4.237.495a2.338,2.338,0,0,1-.431,2.814q-6.643,6.7-13.345,13.346a2.412,2.412,0,0,1-3.623-.067q-3.222-3.136-6.36-6.359a2.521,2.521,0,1,1,3.556-3.571c1.544,1.5,3.021,3.061,4.62,4.691" transform="translate(-2705.732 -6382.467)" fill="#fff"/>
+    <g id="Grupo_1102932" data-name="Grupo 1102932" transform="translate(-3031.86 -6197.846)">
+      <g transform="matrix(1, 0, 0, 1, -170.14, -21.15)" filter="url(#Trazado_501624)">
+        <path id="Trazado_501624-5" data-name="Trazado 501624" d="M19.5,0A19.5,19.5,0,1,1,0,19.5,19.5,19.5,0,0,1,19.5,0Z" transform="translate(209.14 59.68) rotate(180)" fill="#ceff27"/>
+      </g>
+    </g>
+    <g id="Grupo_1102933" data-name="Grupo 1102933" transform="translate(-2818.5 -6197.846)">
+      <g transform="matrix(1, 0, 0, 1, -383.5, -21.15)" filter="url(#Trazado_501624-2)">
+        <path id="Trazado_501624-6" data-name="Trazado 501624" d="M19.5,0A19.5,19.5,0,1,1,0,19.5,19.5,19.5,0,0,1,19.5,0Z" transform="translate(422.5 59.68) rotate(180)" fill="#ceff27"/>
+      </g>
+    </g>
+    <g id="Grupo_1102934" data-name="Grupo 1102934" transform="translate(-2608.5 -6197.846)">
+      <g transform="matrix(1, 0, 0, 1, -593.5, -21.15)" filter="url(#Trazado_501624-3)">
+        <path id="Trazado_501624-7" data-name="Trazado 501624" d="M19.5,0A19.5,19.5,0,1,1,0,19.5,19.5,19.5,0,0,1,19.5,0Z" transform="translate(632.5 59.68) rotate(180)" fill="#ceff27"/>
+      </g>
+    </g>
+    <g id="Grupo_1102935" data-name="Grupo 1102935" transform="translate(-2398.86 -6197.846)">
+      <g transform="matrix(1, 0, 0, 1, -803.14, -21.15)" filter="url(#Trazado_501624-4)">
+        <path id="Trazado_501624-8" data-name="Trazado 501624" d="M19.5,0A19.5,19.5,0,1,1,0,19.5,19.5,19.5,0,0,1,19.5,0Z" transform="translate(842.14 59.68) rotate(180)" fill="#ceff27"/>
+      </g>
+    </g>
+  </g>
+</svg>
