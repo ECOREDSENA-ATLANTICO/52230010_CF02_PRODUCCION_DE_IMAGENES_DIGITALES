@@ -165,7 +165,7 @@ export default {
           id: 7,
           texto: '¿Qué incluyen los tipos de medios no convencionales?',
           imagen: require('@/assets/curso/temas/actividad/img-3.png'),
-          barajarRespuestas: true,
+          barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Televisión y radio.', esCorrecta: false },
             {

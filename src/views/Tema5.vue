@@ -36,7 +36,7 @@
                 p <b>Incrementar la notoriedad de marca:</b> Al utilizar tácticas sorprendentes y llamativas, estas campañas pueden mejorar la visibilidad y el reconocimiento de la marca.
               .tarjeta.fnd-4.p-3(x="95%" y="48%" numero="+")
                 .h4.mb-2 04
-                p <b>Diferenciarse de la competencia:</b> Mediante enfoques innovadores, una campaña BTL permite a las empresas destacarse en un mercado saturado	
+                p <b>Diferenciarse de la competencia:</b> Mediante enfoques innovadores, una campaña BTL permite a las empresas destacarse en un mercado saturado.
 
     .fondo.fn-1(data-aos="fade-left")
 
@@ -106,7 +106,7 @@
         .bloque-texto-b.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h5.mb-0 “La publicidad BTL logra humanizar a las marcas estableciendo un contacto directo con los diferentes públicos, es por ello que dicho contacto se convierte en una relación más estrecha, más relevante para el consumidor y por consiguiente cumple de una manera más eficiente la comunicación de marca.” 
+            h5.mb-0 La publicidad BTL logra humanizar a las marcas estableciendo un contacto directo con los diferentes públicos, es por ello que dicho contacto se convierte en una relación más estrecha, más relevante para el consumidor y por consiguiente cumple de una manera más eficiente la comunicación de marca.
             i.fas.fa-quote-right 
 
     p.mb-5 En resumen, las campañas BTL, le generan a segmentos de mercados muy bien definidos, una experiencia de marca en puntos importantes por medio de estrategias creativas, que impacten los sentidos y estimulen su decisión de compra. Por ejemplo, al promocionar una película, se puede implementar una campaña BTL.

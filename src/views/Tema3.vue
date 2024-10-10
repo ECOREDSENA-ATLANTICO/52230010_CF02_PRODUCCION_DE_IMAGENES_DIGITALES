@@ -11,7 +11,7 @@
         .col-lg-8
           p Con la apertura de nuevos medios digitales, se hace imprescindible la creación de estrategias de medios que traspasen los medios convencionales y no convencionales hacia la búsqueda de nuevas narrativas publicitarias simultáneas en diferentes plataformas mediáticas. Las marcas no son estáticas, sino que son entidades que intercambian experiencias con los consumidores, por ende, necesitan diversos canales de comunicación interactivos para generar experiencias significativas. 
           .cajon.color-primario.p-4.mb-4.fnd-1
-            p Jenkins (2013) define la narración <em>transmediática</em> como un proceso en el que los “elementos integrales de una obra de ficción, que se esparcen sistemáticamente a través de muchos canales de distribución con el propósito de crear una experiencia de entretenimiento unificada y coordinada”. Por medio de la comunicación <em>transmedia</em> se cuentan historias cuyo objetivo es promover una marca desde diferentes perspectivas o a través de diversos medios.      
+            p Jenkins (2007) define la narración <em>transmediática</em> como un proceso en el que los “elementos integrales de una obra de ficción, que se esparcen sistemáticamente a través de muchos canales de distribución con el propósito de crear una experiencia de entretenimiento unificada y coordinada”. Por medio de la comunicación <em>transmedia</em> se cuentan historias cuyo objetivo es promover una marca desde diferentes perspectivas o a través de diversos medios.      
         .col-lg-4
           figure
             img(src='@/assets/curso/temas/tema3/img-1.png').img400.m-auto  

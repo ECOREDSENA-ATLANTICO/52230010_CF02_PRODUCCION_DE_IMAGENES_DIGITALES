@@ -12,7 +12,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-1.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p Las campañas de publicidad se definen como “un plan extenso para una serie de anuncios diferentes, pero relacionados, que aparecen en diversos medios durante un periodo especifico” (Wells, Burnett y Moriarty, 1996, p .749). Una campaña publicitaria es una estrategia de comunicación que una empresa utiliza para promover una marca, producto o servicio al público objetivo. Se diseña y ejecuta a través de diferentes medios, como televisión, radio, redes sociales, y publicidad exterior. <b>Una campaña publicitaria sirve para:</b>
+          p Las campañas de publicidad se definen como “un plan extenso para una serie de anuncios diferentes, pero relacionados, que aparecen en diversos medios durante un periodo  específico” (Wells, Burnett y Moriarty, 1996, p .749). Una campaña publicitaria es una estrategia de comunicación que una empresa utiliza para promover una marca, producto o servicio al público objetivo. Se diseña y ejecuta a través de diferentes medios, como televisión, radio, redes sociales, y publicidad exterior. <b>Una campaña publicitaria sirve para:</b>
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-3.col-sm-8
@@ -202,7 +202,7 @@
           img(src='@/assets/curso/temas/tema2/img-13.png').img400.m-auto    
       .col-lg-8
         p Se concluye, que el concepto de etnocentrismo se asoció a la imagen de la marca, generando orgullo por el país y consumo de la bebida. A continuación, se explican las etapas de la campaña:
-        p La campaña logró aumentar 4 puntos en <em>top of mind</em> y elevó el consumo de la marca al 55 % entre jóvenes.
+
 
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
@@ -219,7 +219,7 @@
             p Cuarta etapa se consolidó la participación activa de la gente en la construcción simbólica de marca y consumo de bebida. 
 
     .cajon.color-secundario.p-4.mb-4
-      p Por otro lado, la campaña cumplió los objetivos al incrementar 4 puntos en el indicador top of mind (recordación), se incrementó el consumo de la bebida y creció el consumo de marca pasando a un 55 % entre consumidores entre los 12 y 29 años.  
+      p Por otro lado, la campaña cumplió los objetivos al incrementar 4 puntos en el indicador <em>top of mind</em> (recordación), se incrementó el consumo de la bebida y creció el consumo de marca pasando a un 55 % entre consumidores entre los 12 y 29 años.  
 
 
 

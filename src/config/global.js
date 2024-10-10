@@ -197,6 +197,13 @@ export default {
     },
     {
       referencia:
+        'Duran, I. (2013) <em>Qué hace que los medios convencionales sean.</em>',
+    },
+    {
+      referencia: 'Hernández (1999)',
+    },
+    {
+      referencia:
         'Levinson, J. C. (2009). <em>Marketing</em> de Guerrilla: Los Secretos para Obtener Grandes Ganancias e Sus Pequeñas y Medianas Empresas. Morgan James. ',
       link:
         'http://books.google.com.co/books?id=YUnJL0bIBW0C&pg=PR11&hl=es&source=gbs_selected_pages&cad=2#v=onepage&q&f=false',
@@ -225,6 +232,12 @@ export default {
       link: 'https://www.youtube.com/watch?v=mUZrrbgCdYc',
     },
     {
+      referencia: 'Larson, 1986.',
+    },
+    {
+      referencia: 'Losada et al. (2004).',
+    },
+    {
       referencia:
         'Molano, A. (2012). <em>Transmedia</em> la nueva narración. Colombia Digital.',
     },
@@ -249,6 +262,9 @@ export default {
     {
       referencia:
         '<em>Turnerbenelux (2012). A Dramatic surprise on a quiet square. </em>',
+    },
+    {
+      referencia: '<em>Wells, Burnett y Moriarty,</em> 1996, p .749',
     },
     {
       referencia:
