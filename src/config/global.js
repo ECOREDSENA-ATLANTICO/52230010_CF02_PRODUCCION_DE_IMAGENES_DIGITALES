@@ -208,10 +208,7 @@ export default {
       link:
         'http://books.google.com.co/books?id=YUnJL0bIBW0C&pg=PR11&hl=es&source=gbs_selected_pages&cad=2#v=onepage&q&f=false',
     },
-    {
-      referencia:
-        'Duran, I. (2013) <em>Qué hace que los medios convencionales sean. </em>',
-    },
+
     {
       referencia:
         'Gutierrez, b. (Sin fecha). Capítulo 1. Medios no convencionales. ',
