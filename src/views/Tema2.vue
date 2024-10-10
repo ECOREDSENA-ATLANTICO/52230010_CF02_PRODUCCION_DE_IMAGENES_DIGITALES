@@ -45,7 +45,7 @@
             img(src='@/assets/curso/temas/tema2/img-4.png').img400.m-auto            
         .col-lg-6
           p Las marcas están utilizando formatos innovadores como encuestas en vivo, juegos y experiencias virtuales para involucrar a los consumidores de manera activa. Estas estrategias no solo aumentan el compromiso y la interacción con la marca, sino que también generan una conexión emocional más profunda, mejorando la retención y la lealtad a largo plazo.
-          p Para conocer la efectividad, fracaso o éxito de una campaña, es necesario definir objetivos de campaña medibles en un tiempo determinado; por ejemplo, lograr ventas de 300.000 bebidas en el primer mes de la campaña, generar 2 millones de visitas en el mes de octubre a la página web o incrementar un 5% el indicador de <em>Top of Mind.</em>  Según el modelo de desarrollo de campañas de Yale (citado en Larson, 1986), una campaña debe atravesar cinco etapas, tal como se presentan a continuación:
+          p Para conocer la efectividad, fracaso o éxito de una campaña, es necesario definir objetivos de campaña medibles en un tiempo determinado; por ejemplo, lograr ventas de 300.000 bebidas en el primer mes de la campaña, generar 2 millones de visitas en el mes de octubre a la página web o incrementar un 5 % el indicador de <em>Top of Mind.</em>  Según el modelo de desarrollo de campañas de Yale (citado en Larson, 1986), una campaña debe atravesar cinco etapas, tal como se presentan a continuación:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -201,8 +201,8 @@
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-13.png').img400.m-auto    
       .col-lg-8
-        p Se concluye, que el concepto de etnocentrismo se asoció a la imagen de la marca, generando orgullo por el país y consumo de la bebida. A continuación, se explicas las etapas de la campaña:
-        p La campaña logró aumentar 4 puntos en <em>top of mind</em> y elevó el consumo de la marca al 55% entre jóvenes.
+        p Se concluye, que el concepto de etnocentrismo se asoció a la imagen de la marca, generando orgullo por el país y consumo de la bebida. A continuación, se explican las etapas de la campaña:
+        p La campaña logró aumentar 4 puntos en <em>top of mind</em> y elevó el consumo de la marca al 55 % entre jóvenes.
 
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
@@ -219,7 +219,7 @@
             p Cuarta etapa se consolidó la participación activa de la gente en la construcción simbólica de marca y consumo de bebida. 
 
     .cajon.color-secundario.p-4.mb-4
-      p Por otro lado, la campaña cumplió los objetivos al incrementar 4 puntos en el indicador top of mind (recordación), se incrementó el consumo de la bebida y creció el consumo de marca pasando a un 55% entre consumidores entre los 12 y 29 años.  
+      p Por otro lado, la campaña cumplió los objetivos al incrementar 4 puntos en el indicador top of mind (recordación), se incrementó el consumo de la bebida y creció el consumo de marca pasando a un 55 % entre consumidores entre los 12 y 29 años.  
 
 
 

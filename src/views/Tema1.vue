@@ -71,7 +71,7 @@
             .row.align-items-center.justify-content-center
               .col-lg-6.col-sm-12.mb-4.mb-md-0
                 h3 Publicidad exterior	
-                p.mb-0 La publicidad exterior es una estrategia visual que utiliza espacios públicos, como las vallas fijas o móviles; la publicidad sobre mobiliario urbano, como el "mupi", que aloja carteles publicitarios ubicados en las paradas de autobús; y la publicidad en transportes públicos, como taxis o autobuses. También se emplea la publicidad aérea, con carteleras en avionetas o zepelines (globos aerostáticos ovalados), para promover productos o servicios.
+                p.mb-0 La publicidad exterior es una estrategia visual que utiliza espacios públicos, como las vallas fijas o móviles; la publicidad sobre mobiliario urbano, como el mupi, que aloja carteles publicitarios ubicados en las paradas de autobús; y la publicidad en transportes públicos, como taxis o autobuses. También se emplea la publicidad aérea, con carteleras en avionetas o zeppelines (globos aerostáticos ovalados), para promover productos o servicios.
                 p Su objetivo es captar la atención de un gran número de personas en su entorno cotidiano. Para lograrlo, se emplean diseños llamativos y mensajes directos, ubicados en lugares estratégicos con alto tráfico, garantizando así un amplio alcance e impacto.	 
               .col-lg-6.col-sm-8
                 figure
