@@ -200,7 +200,8 @@ export default {
         'Duran, I. (2013) <em>Qué hace que los medios convencionales sean.</em>',
     },
     {
-      referencia: 'Hernández (1999)',
+      referencia:
+        'Concepto sobre medios convencionales, Revistas. Hernández (1999).',
     },
     {
       referencia:
@@ -225,14 +226,14 @@ export default {
       link: 'http://henryjenkins.org/2007/03/transmedia_storytelling_101.html',
     },
     {
-      referencia: 'Life´s for Sharing (2009) The T-Mobile Dance. ',
+      referencia: '<i>Life´s for Sharing (2009) The T-Mobile Dance.</i> ',
       link: 'https://www.youtube.com/watch?v=mUZrrbgCdYc',
     },
     {
-      referencia: 'Larson, 1986.',
+      referencia: 'Modelo de desarrollo de campañas de Yale. Larson, 1986.',
     },
     {
-      referencia: 'Losada et al. (2004).',
+      referencia: 'Tipos de medios no convencionales. Losada et al. (2004).',
     },
     {
       referencia:
@@ -261,7 +262,8 @@ export default {
         '<em>Turnerbenelux (2012). A Dramatic surprise on a quiet square. </em>',
     },
     {
-      referencia: '<em>Wells, Burnett y Moriarty,</em> 1996, p .749',
+      referencia:
+        'Campañas publicitarias.<i> Wells, Burnett y Moriarty</i>, 1996, p .749',
     },
     {
       referencia:
@@ -293,7 +295,7 @@ export default {
       autores: [
         {
           nombre: 'Luz Elena Montoya Rendón',
-          cargo: 'Asesora Pedagógica',
+          cargo: 'Asesora pedagógica',
           centro:
             'Centro de Diseño e Innovación Tecnológica Industrial – Regional Risaralda',
         },
@@ -304,10 +306,10 @@ export default {
             'Centro de Diseño e Innovación Tecnológica Industrial – Regional Risaralda',
         },
         {
-          nombre: 'Gilberto Herrera delgans',
+          nombre: 'Gilberto Herrera Delgans',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -318,25 +320,25 @@ export default {
           nombre: 'Jesus Antonio Vecino Valero',
           cargo: 'Diseño web',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Jorge Leonardo Camacho Pardo',
           cargo: 'Desarrollor <em> full stack</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
-          cargo: 'Animador y Productor audiovisual',
+          cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
-          cargo: 'Animador y Productor audiovisual',
+          cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
@@ -347,26 +349,26 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
 
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales ',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
